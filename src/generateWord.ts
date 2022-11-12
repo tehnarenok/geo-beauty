@@ -2,11 +2,11 @@ import source from './source.json'
 import { IWord, Letter } from './types'
 import shuffle from 'lodash/shuffle'
 
-const dataSource: Letter[] = shuffle(source);
-
 const WORD = 'BEAUTY'.toUpperCase()
 
 export const generateWord = (): IWord => {
+	const dataSource: Letter[] = shuffle(source);
+	
 	const word: IWord = [];
 	
 	for (const letter of WORD) {
