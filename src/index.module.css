@@ -39,7 +39,9 @@
 }
 
 .img {
-  height: 100px;
+  width: calc(70vw / 5);
+  max-width: 150px;
+  height: auto;
 }
 
 .coords_container {
