@@ -1,0 +1,38 @@
+[
+ {
+  "picname": "1",
+  "lat": 52.447526,
+  "lon": 13.563920,
+  "letter": "B"
+ },
+ {
+  "picname": "8",
+  "lat": 1.22,
+  "lon": 33.44,
+  "letter": "E"
+ },
+ {
+  "picname": "3",
+  "lat": 10.10,
+  "lon": 11.1,
+  "letter": "A"
+ },
+ {
+  "picname": "19",
+  "lat": 19.19,
+  "lon": 19.19,
+  "letter": "U"
+ },
+ {
+  "picname": "2",
+  "lat": 52.445939,
+  "lon": 13.562548,
+  "letter": "T"
+ },
+ {
+  "picname": "29",
+  "lat": 29.29,
+  "lon": 29.29,
+  "letter": "Y"
+ }
+]
